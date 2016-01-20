@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Alle Kurse für Kids und Jugendlich bis 14 Jahren!'
-datePublished: '2016-01-20T18:46:34.468Z'
-dateModified: '2016-01-20T18:45:58.880Z'
+datePublished: '2016-01-20T18:51:01.368Z'
+dateModified: '2016-01-20T18:50:52.781Z'
 title: Young Courses
 author: []
+sourcePath: _posts/2016-01-20-young-courses.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-01-20-young-courses.md
-published: true
 url: young-courses/index.html
 _type: Article
 
