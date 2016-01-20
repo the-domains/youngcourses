@@ -1,0 +1,28 @@
+name: youngcourses
+favicon: null
+layout_spectrum: 0.026110321516171098
+typography_spectrum: 0.3447765517048538
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.03224118612706661
+  lightness: 0.9721112824045122
+  saturation: 0.3189825592562556
+  rhythmicContrast: 0.8048586444929242
+purpose: []
