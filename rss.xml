@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[youngcourses]]></title>
+        <description><![CDATA[youngcourses]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 20 Jan 2016 18:46:52 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Young Courses]]></title>
+            <description><![CDATA[<article><h1>Young Courses</h1><p>Willkommen auf der Seite Young Courses. </p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/2da4163e-f26d-481a-a8e3-9a3064468531.jpg"></article>]]></description>
+            <link>undefinedyoung-courses/index.html</link>
+            <guid isPermaLink="false">a998b663-99dc-4712-972a-691fa8b8a5e4</guid>
+            <pubDate>Wed, 20 Jan 2016 18:46:34 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
