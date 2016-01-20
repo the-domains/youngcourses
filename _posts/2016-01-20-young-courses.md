@@ -6,7 +6,7 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Alle Kurse für Kids und Jugendlich bis 14 Jahren!'
-datePublished: '2016-01-20T18:51:01.368Z'
+datePublished: '2016-01-20T18:51:01.447Z'
 dateModified: '2016-01-20T18:50:52.781Z'
 title: Young Courses
 author: []
